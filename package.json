@@ -1,0 +1,25 @@
+{
+  "name": "node-config-parser",
+  "version": "0.0.1",
+  "description": "Config parser for node apps (reads from json or javascript object)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sznowicki/node-config-parser.git"
+  },
+  "keywords": [
+    "node",
+    "config",
+    "json",
+    "object"
+  ],
+  "author": "Szymon Nowicki <sznowicki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sznowicki/node-config-parser/issues"
+  },
+  "homepage": "https://github.com/sznowicki/node-config-parser#readme"
+}
